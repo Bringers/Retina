@@ -1,5 +1,5 @@
 # Retina
-This is a neural networks project done by three students at Luleå Tekniska universitet showing how STDP neurons in a spiking neural network, SNN, can learn and distinguish between right and left 1-dimensional motion.
+This is a neural networks project done by three students at Luleå Tekniska universitet showing how STDP neurons in a spiking neural network, SNN, can learn through unsupervised learning to distinguish between right and left 1-dimensional motion.
 
 You can choose to train your own network or use the already trained model with 1000 neurons trained over night.
 The network is a shallow network using spiking neurons and STDP to learn.
